@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jiabinart.github.io/</id>
     <title>HMI设计师——卢佳宾</title>
-    <updated>2020-01-08T16:01:33.281Z</updated>
+    <updated>2020-01-08T16:40:14.580Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jiabinart.github.io/"/>
     <link rel="self" href="http://jiabinart.github.io/atom.xml"/>
@@ -10,6 +10,51 @@
     <logo>http://jiabinart.github.io/images/avatar.png</logo>
     <icon>http://jiabinart.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, HMI设计师——卢佳宾</rights>
+    <entry>
+        <title type="html"><![CDATA[我的手绘作品]]></title>
+        <id>http://jiabinart.github.io/post/wo-de-shou-hui-zuo-pin</id>
+        <link href="http://jiabinart.github.io/post/wo-de-shou-hui-zuo-pin">
+        </link>
+        <updated>2020-01-08T16:39:41.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="http://jiabinart.github.io//post-images/1578501599312.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网站设计]]></title>
+        <id>http://jiabinart.github.io/post/wang-zhan-she-ji</id>
+        <link href="http://jiabinart.github.io/post/wang-zhan-she-ji">
+        </link>
+        <updated>2020-01-08T16:39:04.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="http://jiabinart.github.io//post-images/1578501570140.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v2x]]></title>
+        <id>http://jiabinart.github.io/post/v2x</id>
+        <link href="http://jiabinart.github.io/post/v2x">
+        </link>
+        <updated>2020-01-08T16:38:37.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="http://jiabinart.github.io//post-images/1578501529190.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HMI练习作品]]></title>
+        <id>http://jiabinart.github.io/post/hmi-lian-xi-zuo-pin</id>
+        <link href="http://jiabinart.github.io/post/hmi-lian-xi-zuo-pin">
+        </link>
+        <updated>2020-01-08T16:38:11.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="http://jiabinart.github.io//post-images/1578501500164.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吉利HMI设计]]></title>
+        <id>http://jiabinart.github.io/post/ji-li-hmi-she-ji</id>
+        <link href="http://jiabinart.github.io/post/ji-li-hmi-she-ji">
+        </link>
+        <updated>2020-01-08T16:37:44.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="http://jiabinart.github.io//post-images/1578501472000.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[上汽大通HMI设计]]></title>
         <id>http://jiabinart.github.io/post/shang-qi-da-tong-hmi-she-ji</id>
