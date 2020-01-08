@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jiabinart.github.io/</id>
     <title>HMI设计师——卢佳宾</title>
-    <updated>2020-01-07T15:58:04.919Z</updated>
+    <updated>2020-01-08T15:57:30.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jiabinart.github.io/"/>
     <link rel="self" href="http://jiabinart.github.io/atom.xml"/>
@@ -11,7 +11,16 @@
     <icon>http://jiabinart.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, HMI设计师——卢佳宾</rights>
     <entry>
-        <title type="html"><![CDATA[上汽大通汽车HMI作品]]></title>
+        <title type="html"><![CDATA[上汽大通HMI设计]]></title>
+        <id>http://jiabinart.github.io/post/shang-qi-da-tong-hmi-she-ji</id>
+        <link href="http://jiabinart.github.io/post/shang-qi-da-tong-hmi-she-ji">
+        </link>
+        <updated>2020-01-08T15:52:47.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="http://jiabinart.github.io//post-images/1578498985057.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上汽名爵HMI设计]]></title>
         <id>http://jiabinart.github.io/post/111</id>
         <link href="http://jiabinart.github.io/post/111">
         </link>
